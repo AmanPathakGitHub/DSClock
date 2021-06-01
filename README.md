@@ -7,9 +7,12 @@ NightFoxLib: https://sourceforge.net/projects/nflib/
 
 DevKitPro: https://devkitpro.org/
 
-Controls: \n
+Controls:
+
 X/Y to change BackGrounds
+
 A to PauseMusic
+
 B to ResumeMusic
 
 Made by Aman Pathak
