@@ -1,2 +1,6 @@
 DSClock.sublime-project
 DSclock.sublime-workspace
+DSClock.elf
+DSClock.nds
+build/*
+data/*
