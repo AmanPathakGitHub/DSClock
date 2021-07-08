@@ -10,6 +10,7 @@ DevKitPro: https://devkitpro.org/
 # Compile instructions
 
 Install devkitpro with libnds
+
 Run compile.bat
 
 
