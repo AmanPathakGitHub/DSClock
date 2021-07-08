@@ -7,7 +7,10 @@ NightFoxLib: https://sourceforge.net/projects/nflib/
 
 DevKitPro: https://devkitpro.org/
 
-Controls:
+# Compile instructions
+
+
+# Controls
 
 X/Y to change BackGrounds
 
