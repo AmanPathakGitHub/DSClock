@@ -9,6 +9,9 @@ DevKitPro: https://devkitpro.org/
 
 # Compile instructions
 
+Install devkitpro with libnds
+Run compile.bat
+
 
 # Controls
 
@@ -17,5 +20,7 @@ X/Y to change BackGrounds
 A to PauseMusic
 
 B to ResumeMusic
+
+#
 
 Made by Aman Pathak
